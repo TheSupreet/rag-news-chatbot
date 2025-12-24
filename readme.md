@@ -105,7 +105,7 @@ docker run -p 6333:6333 qdrant/qdrant
 
 ### Drive link
 ```
-https://drive.google.com/file/d/1CEAyMSQMWQsSt0BBWFWRf9qbNW1iZN6T/view?usp=sharing
+[Demo Video (Google Drive)](https://drive.google.com/file/d/1CEAyMSQMWQsSt0BBWFWRf9qbNW1iZN6T/view?usp=sharing)
 ```
 
 ### Images
