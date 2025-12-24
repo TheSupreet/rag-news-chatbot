@@ -96,8 +96,11 @@ GEMINI_API_KEY=your_gemini_api_key
 Frontend .env
 ```
 VITE_API_URL=http://localhost:5000
+
 ```
 
 ### Start Qdrant
 
 docker run -p 6333:6333 qdrant/qdrant
+
+<img width="1918" height="974" alt="Screenshot 2025-12-24 154628" src="https://github.com/user-attachments/assets/954daef8-fc14-4339-a86f-7381816afc8f" />
