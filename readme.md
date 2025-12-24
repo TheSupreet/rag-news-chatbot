@@ -94,8 +94,9 @@ GEMINI_API_KEY=your_gemini_api_key
 ```
 
 Frontend .env
-
+```
 VITE_API_URL=http://localhost:5000
+```
 
 ### Start Qdrant
 
