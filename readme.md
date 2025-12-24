@@ -103,4 +103,11 @@ VITE_API_URL=http://localhost:5000
 
 docker run -p 6333:6333 qdrant/qdrant
 
+### Drive link
+```
+https://drive.google.com/file/d/1CEAyMSQMWQsSt0BBWFWRf9qbNW1iZN6T/view?usp=sharing
+```
+
+### Images
+
 <img width="1918" height="974" alt="Screenshot 2025-12-24 154628" src="https://github.com/user-attachments/assets/954daef8-fc14-4339-a86f-7381816afc8f" />
